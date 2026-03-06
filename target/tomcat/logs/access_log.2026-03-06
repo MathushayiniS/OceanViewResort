@@ -1,7 +1,0 @@
-0:0:0:0:0:0:0:1 - - [06/Mar/2026:20:51:38 +0530] "GET /OceanView/reservation?action=list HTTP/1.1" 302 - http-bio-8080-exec-1 45
-0:0:0:0:0:0:0:1 - - [06/Mar/2026:20:51:39 +0530] "GET /OceanView/login.jsp HTTP/1.1" 200 7558 http-bio-8080-exec-3 911
-0:0:0:0:0:0:0:1 - - [06/Mar/2026:20:51:48 +0530] "POST /OceanView/auth HTTP/1.1" 302 - http-bio-8080-exec-4 1206
-0:0:0:0:0:0:0:1 - - [06/Mar/2026:20:51:49 +0530] "GET /OceanView/dashboard HTTP/1.1" 200 8244 http-bio-8080-exec-5 287
-0:0:0:0:0:0:0:1 - - [06/Mar/2026:20:51:51 +0530] "GET /OceanView/customer/manage-bookings HTTP/1.1" 200 19701 http-bio-8080-exec-6 384
-0:0:0:0:0:0:0:1 - - [06/Mar/2026:20:51:53 +0530] "GET /OceanView/reservation?action=list HTTP/1.1" 200 28895 http-bio-8080-exec-7 224
-0:0:0:0:0:0:0:1 - - [06/Mar/2026:20:51:55 +0530] "GET /OceanView/billing?resNumber=RES-C09C6641 HTTP/1.1" 200 13768 http-bio-8080-exec-8 270

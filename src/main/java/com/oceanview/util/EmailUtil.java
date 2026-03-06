@@ -12,9 +12,8 @@ import javax.mail.internet.MimeMessage;
 public class EmailUtil {
 
     private static final String SMTP_SERVER = "smtp.gmail.com";
-    private static final String USERNAME = "your_email@gmail.com"; // Provide a valid email for real testing
-    private static final String PASSWORD = "your_app_password";
-
+   private static final String USERNAME = "mathushayinishandirasegaran@gmail.com"; // Provide a valid email for real testing
+    private static final String PASSWORD = "rwhf wvbe fbjt ykhl";
     public static void sendConfirmationEmail(String toEmail, String resNumber, String guestName) {
         // Run in a new thread so it doesn't block the UI
         new Thread(() -> {

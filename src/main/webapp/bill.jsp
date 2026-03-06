@@ -115,11 +115,11 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
-                                    <td style="padding: 1rem 0.8rem; border-bottom: 1px solid #e2e8f0; color: #0f172a;">
+                                <tr style="color: #fdfdfd;">
+                                    <td style="padding: 1rem 0.8rem; border-bottom: 1px solid #e2e8f0; color: #fdfdfd;">
                                         Accommodations - ${reservation.room.roomType}</td>
                                     <td
-                                        style="padding: 1rem 0.8rem; text-align: right; border-bottom: 1px solid #e2e8f0;">
+                                        style="padding: 1rem 0.8rem; text-align: right; border-bottom: 1px solid #e2e8f0; color: #fdfdfd;">
                                         $
                                         <fmt:formatNumber value="${reservation.room.pricePerNight}"
                                             pattern="#,##0.00" />
